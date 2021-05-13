@@ -17,6 +17,7 @@
   },
 
   "homepage": "https://lpaschka37.github.io/Employee_Directory/",
+
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
